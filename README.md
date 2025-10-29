@@ -1,16 +1,15 @@
 # master_plan
 
-A new Flutter project.
+PRAKTIKUM 1
 
-## Getting Started
+<img width="940" height="497" alt="image" src="https://github.com/user-attachments/assets/cad2fb20-4629-4ce7-9352-1e2a6af3aa95" />
 
-This project is a starting point for a Flutter application.
+2) Jelaskan maksud dari langkah 4 pada praktikum tersebut! Mengapa dilakukan demikian?
 
-A few resources to get you started if this is your first Flutter project:
+3) Mengapa perlu variabel plan di langkah 6 pada praktikum tersebut? Mengapa dibuat konstanta ?
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+4) Lakukan capture hasil dari Langkah 9 berupa GIF, kemudian jelaskan apa yang telah Anda buat!
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   <img width="940" height="501" alt="image" src="https://github.com/user-attachments/assets/64d3b515-8d43-4a8e-baf9-c46601c830bc" />
+
+5) Apa kegunaan method pada Langkah 11 dan 13 dalam lifecyle state ?
